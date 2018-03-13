@@ -27,4 +27,5 @@ printf("\n Priority of each process")
 for(int i=0;i<number;i++){
 priority[i]=1+(waiting_time[i]/burst_time[i]);
 }
+
 }
