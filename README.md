@@ -1,6 +1,5 @@
 # operating_systems_scheduling
-# non preemptive priority based scheduling based on estimated run time.
-# #define max
+# non preemptive priority based scheduling based on estimated run tim
 #include<stdio.h>
 int main (){
 int proces[10];
